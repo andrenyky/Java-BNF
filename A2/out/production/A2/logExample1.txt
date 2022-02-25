@@ -1,0 +1,396 @@
+ProgID:  1 
+ Execution Stack: 
+int a; int b; a=2 + 3 * 5; b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+int a
+int b; a=2 + 3 * 5; b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+int a
+int b; a=2 + 3 * 5; b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+int b; a=2 + 3 * 5; b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+int b; a=2 + 3 * 5; b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+int b
+a=2 + 3 * 5; b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+int b
+a=2 + 3 * 5; b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+a=2 + 3 * 5; b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 0
+b -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+a=2 + 3 * 5; b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 0
+b -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+a=2 + 3 * 5
+b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 0
+b -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+a=2 + 3 * 5
+b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 0
+b -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 17
+b -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+b=a + 1; print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 17
+b -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+b=a + 1
+print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 17
+b -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+b=a + 1
+print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 17
+b -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 17
+b -> 18
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+print(b)
+no operation
+
+
+ Symbol  Table:  
+a -> 17
+b -> 18
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+no operation
+
+
+ Symbol  Table:  
+a -> 17
+b -> 18
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+18
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+no operation
+
+
+ Symbol  Table:  
+a -> 17
+b -> 18
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+18
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+
+ Symbol  Table:  
+a -> 17
+b -> 18
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+18
+
+  
+
+
+

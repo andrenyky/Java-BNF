@@ -1,0 +1,7 @@
+Backup 2021-10-31_182714:
+    - added display to file
+Backup 2021-11-01_003901:
+    - added SymbolTableNonExistentKeyException and made ExecutionStack.push(...) throw ExecutionStackEmptyException
+Backup 2021-11-01_011104:
+    - SymbolTableNonExistentKeyException was a bad idea because ISymbolTable.update() was used also for creating the
+    the key-value entries in the table

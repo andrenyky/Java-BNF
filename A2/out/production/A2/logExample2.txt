@@ -1,0 +1,227 @@
+ProgID:  1 
+ Execution Stack: 
+int v; v=2; print(v)
+no operation
+
+
+ Symbol  Table:  
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+int v
+v=2; print(v)
+no operation
+
+
+ Symbol  Table:  
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+int v
+v=2; print(v)
+no operation
+
+
+ Symbol  Table:  
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+v=2; print(v)
+no operation
+
+
+ Symbol  Table:  
+v -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+v=2; print(v)
+no operation
+
+
+ Symbol  Table:  
+v -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+v=2
+print(v)
+no operation
+
+
+ Symbol  Table:  
+v -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+v=2
+print(v)
+no operation
+
+
+ Symbol  Table:  
+v -> 0
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+print(v)
+no operation
+
+
+ Symbol  Table:  
+v -> 2
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+print(v)
+no operation
+
+
+ Symbol  Table:  
+v -> 2
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+no operation
+
+
+ Symbol  Table:  
+v -> 2
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+2
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+no operation
+
+
+ Symbol  Table:  
+v -> 2
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+2
+
+  
+
+
+
+ProgID:  1 
+ Execution Stack: 
+
+ Symbol  Table:  
+v -> 2
+
+ File  Table : 
+
+   Heap  Table: 
+
+  Output Console:
+2
+
+  
+
+
+
